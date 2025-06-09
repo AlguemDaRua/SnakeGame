@@ -19,6 +19,6 @@ Thumbs.db
 # PyGame cache
 *.spec
 
-#Files compilados
+# Compilado
 dist/
 build/
